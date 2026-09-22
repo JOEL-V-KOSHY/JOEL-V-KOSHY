@@ -46,21 +46,35 @@ Power BI
 Tableau
 Excel
 Matplotlib
+
 🌟 Featured Projects
-🧬 DataDNA
-📊 JHEALTH+ AI
-🤖 LUCA AI
+🧬 DataDNA — Dataset Intelligence & Health Profiler
 
-Dataset Intelligence & Health Profiler
+A Streamlit-based data intelligence application that analyzes CSV datasets and provides:
 
-A Streamlit-based tool that analyzes CSV datasets, detects data-quality issues, identifies potential IDs and outliers, suggests possible ML targets, and provides visual analytics.
+📊 Dataset profiling and column analysis
+❤️ Data Health Score
+🔍 Missing-value and duplicate detection
+🆔 Possible ID and high-cardinality detection
+📈 IQR-based outlier detection
+🎯 Potential ML target suggestions
+📉 Statistical and visual analysis
 
-🏥 JHEALTH+ AI
+Tech: Python • Streamlit • Pandas • NumPy • Matplotlib
 
-AI-Based Health Awareness Application
+🏥 JHEALTH+ AI — AI-Based Health Awareness Application
 
-A Streamlit application combining machine learning, computer vision, analytics, and SQLite to demonstrate AI-powered health awareness features.
+An AI-powered health awareness application combining machine learning, computer vision, analytics, and database management.
 
+Key technologies: Python • Streamlit • Scikit-learn • OpenCV • SQLite
+
+Features include:
+
+🤖 PCOS prediction using Machine Learning
+👁️ Face and emotion analysis
+📊 Health analytics dashboard
+🔐 User authentication and history
+👨‍💼 Administrative dashboard
 🎯 Current Goal
 
 Building strong foundations in AI/ML engineering through hands-on projects, problem solving, and continuous learning.
