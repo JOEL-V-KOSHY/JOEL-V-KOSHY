@@ -75,6 +75,17 @@ Features include:
 📊 Health analytics dashboard
 🔐 User authentication and history
 👨‍💼 Administrative dashboard
+
+📚 Currently Learning
+
+🤖 Artificial Intelligence & Machine Learning
+🐍 Advanced Python for AI/ML
+🧮 Data Structures & Algorithms
+🧠 Generative AI & LLM Applications
+🔎 Retrieval-Augmented Generation (RAG)
+⚙️ AI Agents & Automation
+🚀 Deploying ML applications
+
 🎯 Current Goal
 
 Building strong foundations in AI/ML engineering through hands-on projects, problem solving, and continuous learning.
