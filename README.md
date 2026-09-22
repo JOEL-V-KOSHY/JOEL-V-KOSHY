@@ -1,16 +1,71 @@
-## Hi there 👋
+👋 Hi, I'm Joel V Koshy
+🤖 Aspiring AI/ML Engineer | Python Developer | Data Analytics Enthusiast
 
-<!--
-**JOEL-V-KOSHY/JOEL-V-KOSHY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BSc IT student passionate about Artificial Intelligence, Machine Learning, Python, and Data Analytics.
 
-Here are some ideas to get you started:
+I enjoy building practical applications that combine software development with AI/ML to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Working On
+🧠 Strengthening my AI/ML fundamentals
+🐍 Building projects with Python
+📊 Exploring Data Analytics & Data Science
+🤖 Learning Generative AI, RAG & AI Agents
+💻 Developing practical, deployable applications
+🛠️ Tech Stack
+
+Languages
+
+Python
+SQL
+C
+C++
+Java
+C#
+
+AI / ML
+
+Scikit-learn
+Pandas
+NumPy
+Machine Learning
+Computer Vision
+Generative AI
+
+Development
+
+Streamlit
+HTML
+CSS
+.NET
+MySQL
+SQLite
+
+Data & Visualization
+
+Power BI
+Tableau
+Excel
+Matplotlib
+🌟 Featured Projects
+🧬 DataDNA
+📊 JHEALTH+ AI
+🤖 LUCA AI
+
+Dataset Intelligence & Health Profiler
+
+A Streamlit-based tool that analyzes CSV datasets, detects data-quality issues, identifies potential IDs and outliers, suggests possible ML targets, and provides visual analytics.
+
+🏥 JHEALTH+ AI
+
+AI-Based Health Awareness Application
+
+A Streamlit application combining machine learning, computer vision, analytics, and SQLite to demonstrate AI-powered health awareness features.
+
+🎯 Current Goal
+
+Building strong foundations in AI/ML engineering through hands-on projects, problem solving, and continuous learning.
+
+📫 Connect With Me
+💻 GitHub: Explore my repositories below
+🔗 LinkedIn: Add your LinkedIn profile here
+💡 "Build. Learn. Improve. Repeat."
